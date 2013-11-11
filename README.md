@@ -1,4 +1,4 @@
-Tool for generating dependency graph of Eclipse projects.
+### Tool for generating dependency graph of Eclipse projects.
 
 This is a simple scala script for generating a project dependency graph of Eclipse projects.
 
