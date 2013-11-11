@@ -13,5 +13,5 @@ To generate a pdf file use graphviz, to parse the out file. An example could be
 ```
 scala src/GraphGenerator.scala ~/workspace /tmp/test.dot
 
-dot out.dot -Tpdf -O
+dot /tmp/test.dot -Tpdf -O
 ```
